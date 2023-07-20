@@ -1,16 +1,18 @@
 body {
   font-family: "Open Sans", sans-serif;
   text-align: center;
+  font-size: 14px;
+  line-height: 28px;
   margin: 0;
-}
-
-img {
-  margin-bottom: 72px;
 }
 
 #hero {
     width: 592px;
     margin: 0 auto 72px;
+}
+
+#hero img {
+  margin-bottom: 72px;
 }
 
 h1 {
